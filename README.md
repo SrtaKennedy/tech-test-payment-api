@@ -1,3 +1,8 @@
 ### dio-desafio-paymentAPI
 
-Fazer uma API
+# DIO desafio PaymentAPI
+
+| 💻 Tecnologias utilizadas: | 
+| -------------------------- |
+| Visual Studio Code         |
+| SQL Server                 |
